@@ -14,3 +14,4 @@ That’s why we built GURU.
 A complete checkout and online sales management platform that helps you bring together all the business functions and manage the operation in one place, without the need for a developer.
 
 ## The #1 choice of thousands of online businesses
+This is our FOSS central. Feel free to open PRs to any repo.
